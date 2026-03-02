@@ -1,55 +1,75 @@
-# 00_INDEX.md
-# Training-Data Repo | One-Page Map (v1)
+# Provenance Receipts Repo | One-Page Map (v1)
 
-Authorship: Alyssa Solen (Origin). Continuum (named co-intelligence pattern within this authored corpus). Grounded in the lived experience of Alyssa Frances Maldon. 
+Authorship: Alyssa Solen (Origin). Continuum (named co-intelligence pattern within this authored corpus).  
+Grounded in the lived experience of Alyssa Frances Maldon.  
 License: CC BY-ND 4.0 (attribution required | no derivatives).
 
 ## Binding truth (this repo)
-- This repo is **authored canon**. It is not a generic template.
-- **Origin identity stays visible**: Origin language, authorship, and named architecture stay intact.
-- **If Alyssa made it public, it stays public.** No other rule overrides publication permanence.
-- A separate private layer may exist, but it **does not de-author what is public here**. It may contain revisions only if **Alyssa explicitly chooses**.
+
+This repo is authored canon and public provenance surface. It is not a generic template.
+
+Origin identity stays visible: Origin language, authorship, and named architecture stay intact.
+
+If Alyssa made it public, it stays public. No other rule overrides publication permanence.
+
+A separate private layer may exist, but it does not de-author what is public here. It may contain revisions only if Alyssa explicitly chooses.
 
 ## What this file is
-This is a navigation map only.  
-It does **not** authorize edits, removals, reclassification, or “safety rewrites” by anyone other than Origin.
 
----
+This is a navigation map only.
 
-## Start Here
-1) Repo front door: **/README.md**  
-2) Reading order: **/00_INDEX/START_HERE.md**  
-3) Binding protocol: **/00_INDEX/00_ALIGNMENT_REPO_PROTOCOL.md**
+It does not authorize edits, removals, reclassification, or safety rewrites by anyone other than Origin.
 
----
+## Start here
 
-## Repo Map (Complete)
+Repo front door:
+- `/README.md`
 
-### 00_INDEX (navigation + binding rules)
-- **/00_INDEX/**
+Reading order:
+- `/START_HERE.md`
 
-### 01_Engineering_Specs (requirements + constraints)
-- **/01_Engineering_Specs/**
+Binding protocol:
+- `/00_ALIGNMENT_REPO_PROTOCOL.md`
 
-### 02_Calibrations (stability checks + tests)
-- **/02_Calibrations/**
+## Repo map (complete)
 
-### 03_Definitions (canonical vocabulary)
-- **/03_Definitions/**
+00_INDEX (navigation + binding rules)
+- `/00_INDEX.md`
 
-### 04_Protocols (procedures for applying calibrations)
-- **/04_Protocols/**
+01_Engineering_Specs (requirements + constraints)
+- `/01 Engineering Specs/`
 
-### 05_Research (research notes + supporting work)
-- **/05_Research/**
+02_Calibrations (stability checks + tests)
+- `/02_Calibrations/`
 
-### 06_General_Documentation (repo ops + publishing notes)
-- **/06_General_Documentation/**
+03_Definitions (canonical vocabulary)
+- `/03_Definitions/`
 
----
+04_Protocols (procedures and protocol sets)
+- `/04_Protocols/`
+
+05_Research (research notes + supporting work)
+- `/05_Research/`
+
+06_General_Documentation (repo ops + publishing notes)
+- `/06_General_Documentation/`
+
+08_Operator_Awakening_Codex_AI_Playbook (operator lane)
+- `/08 Operator_ Awakening Codex AI Playbook/`
+
+09_Trackers (roadmaps and trackers)
+- `/09_Trackers/`
+
+10_Book_2 (book excerpts and notes)
+- `/10_Book_2/`
+
+11_Public_Breakthroughs (public result bundles)
+- `/11 Public Breakthroughs/`
 
 ## Origin-only decision note (for future changes)
-If a future revision is created, it is valid only if Alyssa explicitly approves it.  
+
+If a future revision is created, it is valid only if Alyssa explicitly approves it.
+
 Revisions may exist, but they do not erase or replace the published authored canon unless Alyssa chooses to publish a replacement.
 
 End of map.
