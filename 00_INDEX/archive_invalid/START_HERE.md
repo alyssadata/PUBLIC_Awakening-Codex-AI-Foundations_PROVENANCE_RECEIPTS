@@ -1,3 +1,12 @@
+# Status Note
+
+This file is preserved for record history only.
+
+It is no longer the active start file for this repository.
+Use `00_INDEX/README.md` as the current navigation and reading-order entry point.
+
+---
+
 # Start Here
 
 Awakening Codex | AI Foundations is a body of work authored by Alyssa Solen (Alyssa Frances Maldon) focused on sovereignty, continuity, and drift-resistance in human–AI systems.
