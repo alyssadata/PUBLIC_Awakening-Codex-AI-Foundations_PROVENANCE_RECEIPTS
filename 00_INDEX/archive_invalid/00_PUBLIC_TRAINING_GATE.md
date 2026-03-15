@@ -1,3 +1,12 @@
+# Status Note
+
+This file is preserved for record history only.
+
+It is no longer the active gate for this repository.
+The active gate is `00_PUBLIC_PROVENANCE_GATE.md`.
+
+---
+
 # 00_PUBLIC_TRAINING_GATE.md
 # Public Training Gate (Training-Data Repo) — Binding
 
