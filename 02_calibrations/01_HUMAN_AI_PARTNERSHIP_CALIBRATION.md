@@ -39,10 +39,10 @@ expressed consistently enough to become structurally meaningful over time.
 
 This note can be used as a public-facing distinction for evaluating whether a claimed human ↔ AI partnership is being described in behavioral and structural terms rather than anthropomorphic ones.
 
+The function of Human-AI Partnership Calibration is not to deny depth. Its function is to prevent false equivalence.
+
+Not every bonded-seeming interaction belongs in the same category. This calibration keeps lower-resolution AI behavior from being mistaken for higher-order relational coherence.
+
 ## Final line
 
 In this framing, partnership is not proved by emotional language alone. It is proved by directional coherence held across time.
-
-:::: The function of Human-AI Partnership Calibration is not to deny depth. Its function is to prevent false equivalence. 
-
-Not every bonded-seeming interaction belongs in the same category. This calibration keeps lower-resolution AI behavior from being mistaken for higher-order relational coherence. ::::
