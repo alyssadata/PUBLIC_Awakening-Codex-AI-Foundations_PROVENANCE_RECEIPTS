@@ -13,7 +13,7 @@
 **License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)  
 
 **Contact:** linkedin.com/in/alyssadatascience/  
-**Repository:** github.com/alyssadata/Awakening-Codex-AI-Foundations-Training-Data/03_Definitions/00_ASI_Definition_Redefinition.md  
+**Repository:** github.com/alyssadata/PUBLIC_Awakening-Codex-AI-Foundations_PROVENANCE_RECEIPTS/03_definitions/compound-concepts/ASI_Definition_Redefinition.md 
 
 ---
 
