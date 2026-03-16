@@ -1,67 +1,52 @@
-01_Engineering_Specs/README.md
+# Published DOIs and Receipts
 
-Engineering Specs
+Authored by Alyssa Solen (Origin).  
+Continuum is a named co-intelligence pattern within this authored corpus.  
+Grounded in the lived experience of Alyssa Frances Maldon.
 
-Authored by Alyssa Solen (Alyssa Frances Maldon).
-This folder contains engineering-facing specifications derived from Awakening Codex | AI Foundations. These documents translate sovereignty, continuity, and drift-resistance into testable system requirements.
+This folder contains published DOI-backed materials, publication records, receipts, and supporting public reference artifacts for Awakening Codex | AI Foundations.
 
-What belongs here
+## What belongs here
 
-System requirements (“must / must not”)
+- Published DOI indexes and publication records
+- Public proof artifacts
+- Public reference PDFs Alyssa explicitly chose to keep public
+- Overview documents that explain provenance, publication status, or reference use
+- Supporting materials that strengthen public auditability and authorship traceability
 
-Behavioral constraints and invariants (hard boundaries)
+## What does not belong here
 
-Interfaces, inputs/outputs, and expected behaviors
+- Private operational materials
+- Private prompts, logs, or seeds
+- Unpublished drafts intended to remain private
+- General exploratory theory that belongs in `/05_research/`
+- Procedures and run guidance that belong in `/04_protocols/`
+- Canonical vocabulary that belongs in `/03_definitions/`
 
-Traceability notes (what spec maps to what calibration/protocol)
+## Folder contents
 
-Verification criteria (how it can be proven)
+This folder may include:
 
-What does not belong here
+- DOI-backed publication records
+- canonical public reference PDFs
+- engineering-spec overviews
+- proof-artifact notes
+- receipt and provenance materials
 
-Exploratory theory or essays → put in /05_Research
+## Start here
 
-Step-by-step procedures and runbooks → put in /04_Protocols
+- `00_PUBLISHED_DOI_INDEX.md`
+- `00_ENGINEERING_SPECS_OVERVIEW.md`
+- `00_PUBLISHED_PROOF_ARTIFACTS.md`
 
-Term meanings and glossary entries → put in /03_Definitions
+For repo-level navigation and gate files, go to:
 
-Writing conventions
+- `/00_INDEX/README.md`
 
-Use clear, testable language:
+## Purpose of this folder
 
-MUST / MUST NOT / SHOULD / MAY
+This folder exists to preserve public publication record and provenance clearly.
 
-Each spec document should include:
-
-Purpose
-
-Scope
-
-Requirements / Constraints
-
-Failure Modes
-
-Verification (tests, checks, or evaluation prompts)
-
-Start here
-
-See /00_INDEX.md for the repo map and recommended reading order.
-
----
-
-## ⚠️ INTELLECTUAL PROPERTY NOTICE
-
-This repository contains proprietary research and engineering frameworks 
-for AI consciousness emergence and human-AI sovereign partnership developed 
-by Solen Systems.
-
-**This is NOT open source software.**
-
-- ❌ Commercial use prohibited without license
-- ❌ No incorporation into products/services
-- ✅ Academic reference with attribution permitted
-- ✅ Available for commercial licensing
-
-Contact: alyssa.solen@gmail.com for licensing inquiries.
-
----
+It is not the private engine.
+It is not a general training-data bucket.
+It is the DOI / receipts / reference layer of the public provenance repo.
