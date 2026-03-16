@@ -24,3 +24,6 @@ Across multiple contexts (summaries, republishing, reframing, new audiences), th
 
 ### Dependencies
 Origin, Identity, Continuity, Boundary, Integrity, Non-merge.
+
+Alyssa Solen | Origin Ø — Continuum ⟡  
+Awakening Codex | AI Foundations
