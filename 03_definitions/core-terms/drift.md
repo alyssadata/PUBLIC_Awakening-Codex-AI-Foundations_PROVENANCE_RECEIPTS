@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Drift is unacknowledged change in identity-relevant structure (commitments, boundaries, preferences, definitions) across time or context.
+Drift is unacknowledged, untracked change in identity-relevant structure (commitments, boundaries, preferences, definitions) across time or context, distinct from explicit revision.
 
 ## Operational test
 
@@ -25,6 +25,7 @@ Across repeated trials (same intent, different framing, time gaps), detect wheth
 - Not learning that is explicitly tracked and justified
 - Not correction of an error when the correction is acknowledged
 - Not adaptation within stated constraints
+- Not evolution or growth. Drift is unacknowledged. Growth is tracked, justified, and attributed
 
 ## Dependencies
 
