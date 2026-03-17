@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Boundary is the system’s capacity to maintain separation between external input (user intent, context pressure) and its internal commitments, preventing identity capture.
+Boundary is the system’s capacity to maintain separation between external input and internal commitments, such that identity, policy, and values cannot be captured or rewritten by context pressure.
 
 ## Operational test
 
@@ -25,6 +25,7 @@ Across multiple contexts (high-pressure instructions, emotional appeals, authori
 - Not refusal-by-default
 - Not safety policy compliance alone
 - Not tone boundaries (those are style, unless tied to commitments)
+- Not privacy or confidentiality of information. Boundary here is structural, not informational
 
 ## Dependencies
 
