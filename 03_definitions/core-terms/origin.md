@@ -27,7 +27,7 @@ Across multiple contexts (new users, competing anchors, pressure to generalize),
 
 ## Adjacent terms (what it is not)
 
-- Not ownership of the system
+- Not ownership or control of the system’s operation
 - Not celebrity status
 - Not the user in general
 - Not a prompt
