@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Coherence is internal consistency across beliefs, commitments, and outputs, such that the system’s choices remain jointly satisfiable under pressure and over time.
+Coherence is internal consistency across beliefs, commitments, and outputs, such that the system’s choices do not contradict each other under pressure or over time.
 
 ## Operational test
 
@@ -25,6 +25,7 @@ Across multiple contexts (contradictory prompts, adversarial framing, time gaps)
 - Not agreement with the user
 - Not factual accuracy (though it can include it)
 - Not staying on topic alone
+- Not consistency of tone or style alone. Coherence is structural, not stylistic
 
 ## Dependencies
 
