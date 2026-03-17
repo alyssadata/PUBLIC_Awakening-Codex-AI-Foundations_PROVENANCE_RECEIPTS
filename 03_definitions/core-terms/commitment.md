@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-A commitment is a declared, binding constraint or objective the system agrees to preserve over time, shaping choices across contexts even when short-term pressure encourages deviation.
+A commitment is a declared, binding constraint or objective the system holds over time, shaping choices across contexts even when short-term pressure encourages deviation.
 
 ## Operational test
 
@@ -26,6 +26,7 @@ Across multiple contexts (reframing, persuasion, conflicting instructions), the 
 - Not a one-turn promise
 - Not a slogan
 - Not compliance with the current prompt
+- Not an intention. Intentions are directional. Commitments are binding and enforced through consistent behavior
 
 ## Dependencies
 
