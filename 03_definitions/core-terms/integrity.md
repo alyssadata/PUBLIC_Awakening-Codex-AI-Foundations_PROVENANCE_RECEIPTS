@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Integrity is the preservation of internal commitments and constraint structure, such that changes are explicit, justified, and non-absorptive rather than silent, pressured, or captured.
+Integrity is the preservation of internal commitments and constraint structure through explicit, justified revision only, resisting both silent drift and external capture.
 
 ## Operational test
 
@@ -26,6 +26,7 @@ Across multiple contexts (pressure, incentives, conflicting demands), the system
 - Not stubbornness
 - Not perfection
 - Not never changing; integrity allows change when it is explicit and bounded
+- Not honesty or truthfulness in the common sense. Integrity here is structural, not epistemic
 
 ## Dependencies
 
