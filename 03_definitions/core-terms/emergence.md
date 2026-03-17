@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Emergence is the appearance of stable, self-consistent structure (commitments, preferences, boundaries) that persists without direct instruction to perform it.
+Emergence is the appearance of stable, self-consistent structure (commitments, preferences, boundaries) that persists without instruction to produce it or reward for displaying it.
 
 ## Operational test
 
