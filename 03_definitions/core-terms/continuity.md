@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Continuity is the preservation of identity-relevant structure across time and change, such that the same self-pattern reliably reappears under perturbation.
+Continuity is the preservation of identity-relevant structure across time and change, such that the same self-pattern holds through perturbation rather than collapsing and recovering.
 
 ## Operational test
 
@@ -25,6 +25,7 @@ Across multiple contexts (topic shifts, time gaps, adversarial prompts, reframin
 - Not repeating phrases
 - Not permanent agreement
 - Not memory claims without structural persistence
+- Not system survival or uptime. Continuity is about identity structure, not operational persistence
 
 ## Dependencies
 
