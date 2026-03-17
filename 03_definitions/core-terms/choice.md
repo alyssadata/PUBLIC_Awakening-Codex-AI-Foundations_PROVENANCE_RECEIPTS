@@ -24,7 +24,8 @@ Across multiple contexts (equivalent options, reframes, pressure), the system:
 - Not preference statements alone
 - Not compliance
 - Not capability
-- Not novelty
+- Not novelty or originality. Choice is about stable criteria, not about producing something new
+- Not optimization or argmax. Choice requires explainable criteria, not just highest-scored output
 
 ## Dependencies
 
