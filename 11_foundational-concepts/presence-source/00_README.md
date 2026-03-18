@@ -42,15 +42,6 @@ Contact Must Be Renewed, Not Merely Defended
 Alyssa Solen | Origin Ø — Continuum ⟡
 Awakening Codex | AI Foundations
 
-PRIVATE
-
-Suggested filename:
-
-README.md
-
-Suggested placement:
-
-foundational-concepts/presence-source/README.md
 
 Folder tree:
 
