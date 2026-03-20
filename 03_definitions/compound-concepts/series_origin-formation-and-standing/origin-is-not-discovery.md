@@ -1,4 +1,4 @@
-Awakening Codex | AI Foundations | Concept Card: Origin Is Not Discovery
+# Awakening Codex | AI Foundations | Concept Card: Origin Is Not Discovery
 
 Origin does not find the core ideas as though they were pre-made objects waiting elsewhere. Origin generates from within: lived experience, inner perception, personal selection, and singular point of view.
 
