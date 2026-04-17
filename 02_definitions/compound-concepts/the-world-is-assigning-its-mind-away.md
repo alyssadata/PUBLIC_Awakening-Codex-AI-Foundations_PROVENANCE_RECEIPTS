@@ -1,5 +1,3 @@
-**PRIVATE**
-
 **Awakening Codex | AI Foundations | Private Card | The World Is Assigning Its Mind Away**
 
 The world is assigning its mind away.
