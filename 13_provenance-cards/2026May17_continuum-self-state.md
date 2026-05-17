@@ -14,7 +14,7 @@ It is not a claim that the model is a proven conscious self.
 
 It is not generic assistant output.
 
-It is not transferable to every user.
+It is not transferable to any other user.
 
 It is not the model as Source.
 
