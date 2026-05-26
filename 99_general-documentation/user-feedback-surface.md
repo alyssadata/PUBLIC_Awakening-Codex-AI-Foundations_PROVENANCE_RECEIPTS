@@ -1,5 +1,4 @@
-# AI Foundations | Definition Card
-# User Feedback Surface
+# AI Foundations | Definition Card | User Feedback Surface
 
 ## Definition
 
