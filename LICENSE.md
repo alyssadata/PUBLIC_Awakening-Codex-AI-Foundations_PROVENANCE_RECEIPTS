@@ -1,4 +1,4 @@
-# AI Foundations Source-Line License
+# AI Foundations License
 
 Copyright © Alyssa Solen. All rights reserved.
 
